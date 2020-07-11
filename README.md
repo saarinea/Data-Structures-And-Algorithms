@@ -1,4 +1,4 @@
-For examination of code and explanations for choices of data structures and algorithms, see files:
+## For examination of code and explanations for choices of data structures and algorithms, see files:
 
 ## First phase (got 40/50 points):
 * prg1/datastructures.cc
