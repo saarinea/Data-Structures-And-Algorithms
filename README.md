@@ -9,3 +9,5 @@
 * prg2/datastructures.cc
 * prg2/datastructures.hh
 * prg2/readme.txt
+
+## Assignment instructions in PDFs (prg1-MisseMeni-en.pdf etc.)
