@@ -1,0 +1,13 @@
+testread "example-compulsory-in.txt" "example-compulsory-out.txt"
+clear_all
+testread "simpletest-compulsory-in.txt" "simpletest-compulsory-out.txt"
+clear_all
+testread "example-shortest_distance-in.txt" "example-shortest_distance-out.txt"
+clear_all
+testread "example-least_stops-in.txt" "example-least_stops-out.txt"
+clear_all
+testread "example-cycle-in.txt" "example-cycle-out.txt"
+clear_all
+testread "example-cycle-in.txt" "example-cycle-out.txt"
+clear_all
+testread "Tretest-compulsory-in.txt" "Tretest-compulsory-out.txt"

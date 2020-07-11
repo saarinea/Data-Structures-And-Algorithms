@@ -1,0 +1,12 @@
+read "example-stops.txt"
+read "example-routes.txt"
+read "example-trips.txt"
+route_times_from C 1
+route_times_from C 2
+route_times_from C 5
+
+clear_all
+
+read "Tre-ABC-stops.txt"
+read "Tre-ABC-routes.txt"
+read "Tre-ABC-regions.txt"

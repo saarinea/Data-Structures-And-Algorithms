@@ -1,0 +1,4 @@
+# testread "example-all-in.txt" "example-all-out.txt"
+# clear_all
+testread "Tretest-all-in.txt" "Tretest-all-out.txt"
+# testread "Tretest-compulsory-in.txt" "Tretest-compulsory-out.txt"
