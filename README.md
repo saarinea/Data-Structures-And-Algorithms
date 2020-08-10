@@ -1,4 +1,4 @@
-## For examination of code and explanations for choices of data structures and algorithms, see files:
+## For examination of code I did and explanations for choices of data structures and algorithms, see files:
 ### Public interface was provided for both assignments, otherwise code was written by me. 
 
 ## First phase (got 40/50 points):
